@@ -1,3 +1,3 @@
-# HackDelhi-Ultra
+# HackDelhi-UltraHack
 
-Personal AR Navigator!
+Personal AR Navigator!!
